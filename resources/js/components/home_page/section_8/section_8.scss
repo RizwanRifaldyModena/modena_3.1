@@ -1,0 +1,39 @@
+.bg_section_8{
+    background-color: #fff;
+    display: flex;
+}
+#section_8{
+    width: calc(100% - 20px);
+    height: auto;
+    margin: 10px;
+    float: left;
+    clear: both;
+}
+
+.sec8-1{
+    width: calc(52% - 30px);
+    height: 550px;
+    float: left;
+    color: #fff;
+    padding-top: 80px;
+    display: block;
+    padding-left: 60px;
+}
+.bg-sec{
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.bg-sec8-1{background-image: url('../../../../../public/img/sec-8-1.png');}
+.bg-sec8-2{background-image: url('../../../../../public/img/sec-8-2.png');}
+.wrap-sec{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+}
+.ml-sec{
+    margin-left: 10px;
+}
+.mt-sec{
+    margin-top: 10px;
+}

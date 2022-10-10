@@ -1,0 +1,23 @@
+#menu{
+    width: 100%;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 15px;
+}
+.list-menu{
+    list-style: none;
+    li{
+        float: left;
+        color: #fff;
+        margin-left: 25px;
+        margin-top: -5px;
+    }
+}
+.list-right-menu{
+    list-style: none;
+    li{
+        float: left;
+        color: #fff;
+        margin-top: -5px;
+    }
+}

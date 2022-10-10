@@ -1,0 +1,7 @@
+.bg_top_nav{
+    background-color: rgba(22, 22, 22, 0.7);
+    
+    @media screen and (max-width: 767px) {
+        display: none;
+    }
+}
